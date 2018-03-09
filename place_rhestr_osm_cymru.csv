@@ -14,13 +14,18 @@
 21063632,Abertawe,Swansea,city,51.6211442,-3.9467751
 21068150,Yr Hob,Hope,village,53.1180417,-3.0341707
 21107621,Biwmares,Biwmares / Beaumaris,town,53.2629971,-4.0921643
-21395759,Aberteifi,Cardigan,town,52.0839973,-4.6604224
+21112439,Llangefni,Llangefni,town,53.2560949,-4.3114568
+21393918,Aberaeron,Aberaeron,town,52.2431766,-4.2600153
+21395759,Aberteifi,Aberteifi,town,52.0839973,-4.6604224
 21411035,Penfro,Pembroke,town,51.6754422,-4.9144858
 21413029,Dinbych-y-pysgod,Tenby,town,51.6726128,-4.7050443
 21413062,Caerfyrddin,Carmarthen,town,51.8591257,-4.3115907
+21413323,Llanelli,Llanelli,town,51.6797331,-4.1620223
+21413563,Bangor,Bangor,city,53.2277187,-4.1268822
 21541044,Y Dyfawden,Devauden,village,51.6884656,-2.7503924
 21541150,Drenewydd Gelli-farch,Shirenewton,village,51.6387222,-2.7532619
 21549590,Niwgwl,Newgale,village,51.8574211,-5.1262272
+21598107,Aberystwyth,Aberystwyth,town,52.4143113,-4.0816846
 21713678,Tryleg,Trelleck,village,51.7450901,-2.7244457
 25417393,Yr Wyddgrug,Mold,town,53.1688711,-3.1431489
 26108893,Dolgellau,Dolgellau,town,52.7447150,-3.8777787
@@ -29,13 +34,18 @@
 27199757,Pont-y-pŵl,Pontypool,town,51.7026571,-3.0327511
 27199758,Abertyleri,Abertillery,town,51.7299485,-3.1359867
 27199759,Rhymni,Rhymney,town,51.7613231,-3.2885172
+27199760,Tredegar,Tredegar,town,51.7732557,-3.2469535
 27199761,Glyn Ebwy,Ebbw Vale,town,51.7812925,-3.2084383
+27199762,Brynmawr,Brynmawr,town,51.7982408,-3.1740109
 27199763,Caerffili,Caerphilly,town,51.5745432,-3.2208487
+27199788,Pontypridd,Pontypridd,town,51.5992800,-3.3416386
 27199789,Y Barri,Barry,town,51.4043548,-3.2690216
+27199791,Porthcawl,Porthcawl,town,51.4795563,-3.7040704
 27199864,Cas-gwent,Chepstow,town,51.6428466,-2.6751258
 27199865,Trefynwy,Monmouth,town,51.8098882,-2.7160441
 27211260,Llaneurgain,Northop,village,53.2067926,-3.1324591
 27237605,Bangor-is-y-Coed,Bangor-on-Dee,village,53.0028302,-2.9123258
+27431602,Porthmadog,Porthmadog,town,52.9252682,-4.1301929
 27459575,Cei Connah,Connah's Quay,town,53.2199037,-3.0661782
 27459576,Y Fflint,Flint,town,53.2492828,-3.1345262
 27459577,Bwcle,Buckley,town,53.1702261,-3.0799874
@@ -45,6 +55,7 @@
 27459582,Chwitffordd,Whitford,village,53.2938308,-3.2836270
 27459584,Llanelwy,St Asaph,city,53.2575614,-3.4438607
 27459585,Y Rhyl,Rhyl,town,53.3207425,-3.4907258
+27459587,Abergele,Abergele,town,53.2840692,-3.5810655
 27459588,Bae Colwyn,Colwyn Bay,town,53.2904364,-3.7086755
 27459591,Y Waun,Chirk,town,52.9320109,-3.0563860
 27581224,Caergybi,Caergybi,town,53.3076493,-4.6316793
@@ -58,21 +69,25 @@
 29196187,Trefwrdan,Jordanston,hamlet,51.9570703,-5.0278258
 29207883,Nefyn,Nefyn,village,52.9356211,-4.5191695
 29208590,Cricieth,Criccieth,town,52.9206106,-4.2332414
+29217836,Harlech,Harlech,town,52.8587665,-4.1074500
 29227183,Abermaw,Barmouth,town,52.7210389,-4.0535692
+29227281,Tywyn,Tywyn,town,52.5861123,-4.0855906
 29227485,Y Borth,Borth,town,52.4880991,-4.0508057
 29228098,Ceinewydd,New Quay,village,52.2140026,-4.3603208
+29228186,Llangrannog,Llangrannog,village,52.1589921,-4.4664747
+29228230,Penbryn,Penbryn,hamlet,52.1400258,-4.4905824
 29228401,Y Ferwig,Y Ferwig,hamlet,52.1152059,-4.6542334
 29228550,Llandudoch,St Dogmaels,village,52.0810216,-4.6844618
 29228672,Trewyddel,Moylgrove,village,52.0675491,-4.7461965
 29228771,Nanhyfer,Nevern,village,52.0258022,-4.7944998
 29229146,Eglwys Wen,Whitechurch,hamlet,51.9950506,-4.6939834
-29229328,Castell Newydd Emlyn,Newcastle Emlyn,town,52.0388375,-4.4687827
+29229328,Castell Newydd Emlyn,Castell Newydd Emlyn,town,52.0388375,-4.4687827
 29230362,Capel Uchaf,Upper Chapel,hamlet,52.0545174,-3.4476979
 29230843,Y Clas-ar-Wy,Glasbury,village,52.0450395,-3.2032358
 29233364,Llanymddyfri,Llandovery,town,51.9954586,-3.7977071
 29265998,Niwbwrch,Niwbwrch,village,53.1646747,-4.3612916
 29266744,Felindre,Felindre,hamlet,52.0185201,-4.4003894
-29269754,Llanbedr Pont Steffan,Lampeter,town,52.1130523,-4.0787610
+29269754,Llanbedr Pont Steffan,Llanbedr Pont Steffan,town,52.1130523,-4.0787610
 29269859,Conwy,Conwy,town,53.2811822,-3.8287012
 29271063,Y Gelli,Hay on Wye,town,52.0744595,-3.1243132
 29271131,Capel Newydd,Capel Newydd / Newchapel,hamlet,52.0255847,-4.5824345
@@ -90,6 +105,7 @@
 29274677,Llanandras,Presteigne,town,52.2724840,-3.0052595
 29276053,Trefyclawdd,Knighton,town,52.3442894,-3.0496523
 29276143,Cnwclas,Knucklas,village,52.3612430,-3.1005852
+29422113,Caernarfon,Caernarfon,town,53.1390298,-4.2691853
 29428591,Llanfable,Llanvapley,village,51.8212570,-2.9202800
 29428608,Llanwytherin,Llanvetherine,village,51.8503828,-2.9194632
 29428623,Llangatwg Lingoed,Llangattock Lingoed,village,51.8759778,-2.9301300
@@ -111,21 +127,26 @@
 29499774,Llandydiwg,Dixton,village,51.8196415,-2.6997244
 29628460,Dinbych,Denbigh,town,53.1853776,-3.4178289
 29724415,Begeildy,Beguildy,village,52.4093638,-3.1855582
+29728343,Llanidloes,Llanidloes,town,52.4482359,-3.5410891
 29730713,Penffordd Las,Staylittle,hamlet,52.5153501,-3.6405200
 29731450,Ffwrnais,Ffwrnais - Furnace,village,52.5381781,-3.9405658
 29731718,Trefaldwyn,Montgomery,town,52.5608721,-3.1477385
 29731765,Aberriw,Aberriw,village,52.5994717,-3.2009082
 29731817,Ffordun,Forden,hamlet,52.6005245,-3.1437961
+29732078,Machynlleth,Machynlleth,town,52.5905755,-3.8517266
 29739196,Castell Caereinion,Castle Caereinion,village,52.6401999,-3.2381151
 29739290,Y Trallwng,Welshpool,town,52.6600742,-3.1474212
 29747505,Crugion,Criggion,village,52.7288592,-3.0525376
 29748267,Aber Cywarch,Aber Cowarch,hamlet,52.7285377,-3.6746187
 29761584,Y Bala,Bala,town,52.9112205,-3.5994700
 29778732,Blaenau Ffestiniog,Blaenau Ffestiniog,town,52.9957103,-3.9363166
+29779337,Corwen,Corwen,town,52.9804731,-3.3731677
+29779542,Llangollen,Llangollen,town,52.9694033,-3.1711111
 29779763,Rhiwabon,Ruabon,village,52.9871312,-3.0414969
 29779771,Erbistog,Erbistock,village,52.9684995,-2.9665061
 29783573,Cemais,Cemmaes,village,52.6395941,-3.7141695
 29797813,Casnewydd Bach,Little Newcastle,village,51.9220981,-4.9390207
+30394358,Llanrwst,Llanrwst,town,53.1415318,-3.7939311
 30794993,Aberdyfi,Aberdyfi,village,52.5451248,-4.0533624
 30808290,Crug Hywel,Crickhowell,town,51.8591120,-3.1383550
 30808923,Llanddewi Nant Honddu,Llanthony,village,51.9426050,-3.0385008
@@ -133,9 +154,13 @@
 30809965,Tal-y-bont ar Wysg,Talybont on Usk,village,51.8959365,-3.2877765
 32011588,Creseli,Cresselly,village,51.7225186,-4.8033701
 32328036,Talwrn Green,Tallarn Green,village,52.9911426,-2.8249031
-32639726,Rhydaman,Ammanford,town,51.7926317,-3.9887731
+32636728,Llandeilo,Llandeilo,town,51.8853935,-3.9925144
+32639726,Rhydaman,Rhydaman,town,51.7926317,-3.9887731
 32827509,Porthaethwy,Porthaethwy / Menai Bridge,town,53.2259347,-4.1631064
+32881647,Amlwch,Amlwch,town,53.4090317,-4.3426490
 33966726,Llanhuadain,Llawhaden,village,51.8210540,-4.8056087
+36147678,Llandudno,Llandudno,town,53.3224750,-3.8243251
+36721985,Penyffordd,Penyffordd,town,53.1454462,-3.0477811
 38261077,Tre-gŵyr,Gowerton,village,51.6481354,-4.0412235
 54005197,Rhuthun,Rhuthun,town,53.1115513,-3.3052405
 60171069,Solfach,Solva,village,51.8735554,-5.1979167
@@ -166,22 +191,26 @@
 178281336,Llanmadog,Llanmadoc,village,51.6178888,-4.2502083
 202741454,Doc Penfro,Pembroke Dock,town,51.6935390,-4.9392016
 203628404,Trefdraeth,Newport / Trefdraeth,village,52.0169568,-4.8331430
+204110814,Llanfairfechan,Llanfairfechan,town,53.2531977,-3.9750615
 206199239,Abergwaun,Fishguard,town,51.9938353,-4.9768100
 206232079,Y Drenewydd,Newtown,town,52.5135785,-3.3143710
 213016501,Y Crwys,Three Crosses,village,51.6279656,-4.0681917
 221987226,Cegidfa,Guilsfield,village,52.6949048,-3.1520880
+227503950,Clydach,Clydach,town,51.6964314,-3.8916304
+227507986,Pontardawe,Pontardawe,town,51.7219859,-3.8488778
 229421064,Pencraig,Old Radnor,hamlet,52.2247312,-3.1002924
 231543616,Llanganna,Llangan,village,51.4875274,-3.5014814
 240684917,Brychdyn,Broughton,village,53.1650183,-2.9875151
 241397572,Porth Tywyn,Burry Port,town,51.6858178,-4.2502221
 241397574,Pen-bre,Pembrey,village,51.6879012,-4.2796668
-241397577,Cydweli,Kidwelly,town,51.7363873,-4.3062309
+241397577,Cydweli,Cydweli,town,51.7363873,-4.3062309
 241397580,Glan y Fferi,Ferryside,village,51.7671929,-4.3685183
 241911538,Treforys,Morriston,town,51.6700114,-3.9297630
 246224315,Owrtyn,Overton,village,52.9698401,-2.9344704
 246466544,Llandŵ,Llandow,village,51.4490050,-3.5222606
 248358756,Coety,Coity,village,51.5212979,-3.5539979
 248637040,Pentref Myfyrwyr Hendrefoelan,Hendrefoelan Student Village,hamlet,51.6233142,-4.0096825
+249755671,Bethesda,Bethesda,town,53.1809093,-4.0614444
 255139019,Llanbedr Felffre,Lampeter Velfrey,village,51.7983239,-4.6748912
 255242975,Maenorbŷr,Manorbier,village,51.6466802,-4.7955331
 255304915,Rhaeadr Gwy,Rhayader,town,52.2997338,-3.5103077
@@ -196,6 +225,7 @@
 260095120,Llandaf,Llandaff,suburb,51.4941512,-3.2176131
 260154248,Glan-Dŵr,Glandwr,village,51.9278674,-4.6321057
 260245697,Trap,Trap,village,51.8530239,-3.9570840
+260492886,Pencoed,Pencoed,town,51.5247760,-3.5032631
 260492891,Llangrallo,Coychurch,village,51.5043459,-3.5326161
 260591288,Dresigin,Sigingstone,village,51.4346843,-3.4794196
 260591305,Lanfaes,Llanmaes,village,51.4176213,-3.4672022
@@ -208,6 +238,7 @@
 265075512,Radur,Radyr,suburb,51.5204641,-3.2622312
 266158561,Cynffig,Kenfig,village,51.5194781,-3.7264610
 266489691,Ynys Sili,Sully Island,island,51.3957695,-3.1989385
+267971443,Maesteg,Maesteg,town,51.6034032,-3.6535282
 268068032,Llanfihangel ym Mhenybont-ar-Ogwr,Llanmihangel,hamlet,51.4381354,-3.4675750
 268225765,Yr Ystog,Churchstoke,village,52.5406077,-3.0730301
 269901779,Eglwys Fair y Mynydd,St. Mary Hill,hamlet,51.4961744,-3.4991852
@@ -220,6 +251,7 @@
 282447993,Y Tymbl,Tumble,village,51.7862534,-4.1139501
 286330891,Pen-hŵ,Penhow,hamlet,51.6150507,-2.8444829
 286338156,Llanfair Is Coed,Llanvair-Discoed,village,51.6284750,-2.7974376
+286449388,Bagillt,Bagillt,town,53.2640966,-3.1676296
 287105951,Sychdyn,Sychdyn,village,53.1883306,-3.1351322
 287771457,Pentre Rhiwbeina,Rhiwbina Village,suburb,51.5233817,-3.2151825
 287771519,Rhiwbeina,Rhiwbina,suburb,51.5294159,-3.2108480
@@ -236,6 +268,7 @@
 293350729,Llansanffraid Gwynllŵg,Saint Bride's Wentlooge,hamlet,51.5339243,-3.0202552
 293668794,Y Felinheli,Y Felinheli,village,53.1850692,-4.2057931
 293701759,Tredegar Newydd,New Tredegar,village,51.7204263,-3.2406817
+293706543,Ystrad Mynach,Ystrad Mynach,town,51.6418098,-3.2373987
 295893066,Trebefered,Boverton,village,51.4056665,-3.4623226
 296060259,Facroes,Marcross,village,51.4120780,-3.5473296
 296060334,Yr As Fawr,Monknash,village,51.4245955,-3.5549993
@@ -243,9 +276,12 @@
 296104896,Talacharn,Laugharne,town,51.7700350,-4.4647048
 297481120,Llanfleiddan,Llanblethian,suburb,51.4554969,-3.4593427
 297481297,Llandochau-Pen-Y-Bont,Llandough,village,51.4467027,-3.4471910
+297839055,Penarth,Penarth,town,51.4359680,-3.1733023
+297839056,Dinas Powys,Dinas Powys,town,51.4334895,-3.2135020
 297913285,Einsiob,Evenjobb,hamlet,52.2540777,-3.0842757
 298287850,Wrddymbre,Worthenbury,village,53.0098503,-2.8657416
 298460157,Treforgan,Morganstown,suburb,51.5265550,-3.2632664
+300858988,Pontarddulais,Pontarddulais,town,51.7150475,-4.0403783
 300860840,Casllwchwr,Loughor,town,51.6654032,-4.0677598
 300861380,Llwchwr Uchaf,Upper Loughor,village,51.6641453,-4.0576860
 302323532,Sir Fynwy,Monmouthshire,county,51.7501058,-2.8333331
@@ -257,6 +293,7 @@
 304150010,Maendy,Maindy,suburb,51.4990053,-3.1911902
 306486264,Tredelerch,Rumney,suburb,51.5077197,-3.1280845
 306486303,Llanrhymni,Llanrumney,suburb,51.5173292,-3.1245655
+307811475,Tonyrefail,Tonyrefail,town,51.5832675,-3.4311743
 308735385,Tyndyrn,Tintern,village,51.6985942,-2.6810135
 310089009,Y Pîl,Pyle,town,51.5289416,-3.6937837
 310089053,Mynydd Cynffig,Kenfig Hill,village,51.5329738,-3.6777110
@@ -273,10 +310,12 @@
 331572469,Llandrillo yn Rhos,Llandrillo yn Rhos,suburb,53.3129676,-3.7439749
 331573235,Bae Penrhyn,Penrhyn Bay,suburb,53.3158837,-3.7695532
 331960920,Llannerch Banna,Penley,village,52.9522351,-2.8661034
+335172463,Llanberis,Llanberis,town,53.1212762,-4.1277481
 336513366,Wdig,Goodwick,village,52.0044370,-4.9960186
 340244098,Y Ro-wen,Rowen,village,53.2306785,-3.8636273
 340367643,Y Mwynglawdd,Minera,village,53.0595773,-3.0847218
 340482701,Allt-yr-ynn,Allt-Yr-Yn,suburb,51.5941188,-3.0115741
+340496154,Rhosllannerchrugog,Rhosllannerchrugog,town,53.0127346,-3.0594160
 340512519,Marchwiail,Marchwiel,village,53.0229610,-2.9599909
 346184917,Pendeulwyn,Pendoylan,village,51.4807652,-3.3545686
 346194667,Waunadda,Adamsdown,suburb,51.4840190,-3.1589533
@@ -291,6 +330,7 @@
 442321520,Llai,Llay,village,53.0970796,-2.9994725
 443844811,Sant Silian,St Julian's,suburb,51.6000642,-2.9735689
 443853900,Maendy,Maindee,suburb,51.5922451,-2.9750110
+447728399,Cwm Ystwyth,Cwm Ystwyth,hamlet,52.3516090,-3.7799017
 448000441,Y Bers,Bersham,village,53.0359596,-3.0274608
 448576206,Llanfihangel-yng-Ngheri,Ceri,village,52.5025395,-3.2573033
 454664872,Llanddarog,Llanddarog,village,51.8276035,-4.1760138
@@ -299,6 +339,7 @@
 470505463,Glanrafon,Southsea,village,53.0597617,-3.0413199
 471117361,Brynhyfryd,Summerhill,village,53.0759625,-3.0266301
 471300529,Llyswyry,Liswerry,suburb,51.5817281,-2.9506311
+480285038,Abercynon,Abercynon,town,51.6448956,-3.3283645
 486124324,Gallt Melyd,Meliden,village,53.3156884,-3.4110201
 487435758,Tŷ-du,Rogerstone,suburb,51.5917070,-3.0546846
 493217543,Aberpennar,Mountain Ash,town,51.6821033,-3.3764418
@@ -306,6 +347,9 @@
 536613729,Porthllechog,Porthllechog,village,53.4218266,-4.3717094
 536680306,Trerhondda,Ferndale,village,51.6604868,-3.4475628
 536725510,Dwyrain Aberddawan,East Aberthaw,village,51.3911156,-3.3884501
+567241962,Tresaith,Tresaith,village,52.1349052,-4.5137276
+567241963,Tan-y-groes,Tan-y-groes,hamlet,52.1160570,-4.5054666
+567349937,Llanerchymedd,Llanerchymedd,town,53.3285599,-4.3769903
 567352894,Y Fali,Valley,town,53.2845182,-4.5619223
 571622884,Narth,The Narth,village,51.7545219,-2.6917283
 577409741,Llanwarw,Wonastow,village,51.7949411,-2.7484379
@@ -330,7 +374,9 @@
 696777409,Tresimwn,Bonvilston,village,51.4585541,-3.3456616
 701896060,Sain Hilari,St Hilary,village,51.4495805,-3.4162544
 704497026,Meisgyn,Miskin,village,51.5194352,-3.3750410
+710682642,Llantrisant,Llantrisant,town,51.5414953,-3.3745538
 718918555,Y Mynydd Bychan,Heath,suburb,51.5163371,-3.1870909
+731444577,Tonypandy,Tonypandy,town,51.6246695,-3.4595279
 732629748,Mynydd Y Fflint,Flint Mountain,village,53.2234242,-3.1409622
 734412517,Treorci,Treorchy,town,51.6610568,-3.5041501
 734645099,Cymer,Cymer,village,51.6540599,-3.6461082
@@ -339,6 +385,7 @@
 747882910,Porth-y-felin,Porth-y-felin,suburb,53.3168234,-4.6418505
 767104585,Y Farteg,Varteg,village,51.7469643,-3.0635092
 774077245,Bae Cinmel,Kinmel Bay,town,53.3119503,-3.5167389
+795692978,Maes-y-coed,Woodfieldside,suburb,51.6680623,-3.1893649
 796744978,Y Glôg,Glogue,village,51.9621865,-4.5969665
 801089697,Llanelen,Llanellen,village,51.7934245,-3.0108561
 824173049,Llwyncelyn,Holly Bush,hamlet,51.7221559,-3.2094720
@@ -349,6 +396,7 @@
 841332434,Llangatwg,Cadoxton-juxta-Neath,village,51.6728535,-3.8006824
 841332938,Y Betws,Betws,village,51.7884480,-3.9837693
 883397380,Gellifedw,Birchgrove,suburb,51.6678018,-3.8718654
+937894584,Pontycymer,Pontycymer,town,51.6088629,-3.5797523
 942482994,Trawscoed,Crosswood,hamlet,52.3358666,-3.9596421
 969146240,Pontfaen,Forge,hamlet,52.5840076,-3.8271432
 973786551,Llansanwyr,,hamlet,51.4870220,-3.4516152
@@ -361,16 +409,20 @@
 1195328027,Croes Hendre,Hendre Cross,hamlet,51.8989923,-5.1464310
 1205879955,Y Sgwar,Square and Compass,hamlet,51.9388248,-5.1229086
 1239072419,Derwen-Gam,Oakford,hamlet,52.1983307,-4.2664011
+1240317421,Pentregat,Pentregat,hamlet,52.1412337,-4.4058530
 1246721663,Ardd-lin,Arddleen,village,52.7349073,-3.0996176
 1249882025,Llan San Siôr,St. George,village,53.2690301,-3.5399752
 1250624128,Brynaman,Brynamman,town,51.8121781,-3.8677246
 1280180184,Aber-miwl,Abermule,village,52.5453049,-3.2342091
+1300319824,Treharris,Treharris,town,51.6649488,-3.3058374
 1330789524,Tretwr,Tretower,village,51.8850214,-3.1830966
 1347774961,Y Groes,Crossgates,village,52.2752864,-3.3372833
 1359387139,Blaendulais,Blaendulais / Seven Sisters,village,51.7670902,-3.7127848
 1382849428,Hwlffordd,Haverfordwest,town,51.8023297,-4.9651074
 1472209764,Hen Golwyn,Old Colwyn,village,53.2885433,-3.7015251
+1505432771,Pwllheli,Pwllheli,town,52.8884749,-4.4179146
 1523001471,Y Rhiw,Rhiw,hamlet,52.8188954,-4.6329698
+1655767713,Penmaenmawr,Penmaenmawr,town,53.2681395,-3.9200268
 1673482184,Pont-iets,Pont-iets,village,51.7543908,-4.2186556
 1781538922,Evencoed,Evancoyd,hamlet,52.2607237,-3.0844771
 1839656909,Bwras,Borras,suburb,53.0639534,-2.9733095
@@ -381,17 +433,22 @@
 2194272895,Pen-y-waun,Penywaun,village,51.7308006,-3.4846295
 2195153834,Pont-Siân,Pontsian,village,52.0915015,-4.2806820
 2374402134,Llansoi,Llansoy,village,51.7197707,-2.8078443
+2479316677,Gorseinon,Gorseinon,town,51.6693797,-4.0415918
 2610366036,Cefn Llanfadog,,locality,52.2761538,-3.5711115
 2642288017,Cymru,Wales,state,52.2928116,-3.7389300
 2666032941,Tryfan Fach,Tryfan Fach,locality,53.1210085,-3.9876537
 2672668374,Blaenau,Blaina,town,51.7645432,-3.1602994
+2672668382,Nantyglo,Nantyglo,town,51.7894523,-3.1727330
+2704122167,Gelli,Gelli,town,51.6440878,-3.4766440
 3057266414,Pentywyn,Pendine,village,51.7450428,-4.5581740
 3128124423,Tretomos,Trethomas,village,51.5917210,-3.1840986
+3128124424,Bedwas,Bedwas,town,51.5916477,-3.1988507
 3131800748,Aberllynfi,Three Cocks,village,52.0294715,-3.2097265
 3154956341,Trwyn Abermenai,Abermenai Point,locality,53.1276132,-4.3283184
 3246923964,Pont Henllan,Pont Henllan,isolated_dwelling,52.0350981,-4.3993231
 3247492347,Dyffryn March,Dyffryn March,isolated_dwelling,52.0718327,-4.2971073
 3255254271,Tref Newydd,New Town,neighbourhood,52.0869760,-4.6555970
+3426642950,Machen Isaf,Lower Machen,hamlet,51.5857952,-3.1167688
 3497058772,Ynys Tudwal Fawr,Ynys Tudwal Fawr,island,52.7987357,-4.4708555
 3712052604,Tyddewi,St David's,city,51.8812610,-5.2662303
 3728054728,Tremarchog,St. Nicholas,hamlet,51.9793637,-5.0570989
@@ -401,9 +458,11 @@
 3746052742,Tŷ’n-y-coed-cae,Waterloo,hamlet,51.5868946,-3.1625022
 3803728080,Aber-bîg,Aberbeeg,village,51.7111570,-3.1455257
 3803728082,Cwmtyleri,Cwmtillery,village,51.7440586,-3.1360199
+3803736178,Maes-y-ffynnon,Springfield,suburb,51.6538234,-3.1806903
 3936935218,Crug-y-Byddar,Crug-y-Byddar,hamlet,52.4301494,-3.2339975
 3956259988,Cwm Nant-y-moch,Cwm Nant-y-moch,isolated_dwelling,52.0096000,-3.5930293
 4022993914,Llanbedr-y-fro,Peterston-super-Ely,village,51.4799788,-3.3209662
+4026793484,Rhydri,Rudry,hamlet,51.5727209,-3.1535362
 4038919407,Y Fenni,Abergavenny,town,51.8191413,-3.0140809
 4160119950,Canolfan y Ceridwen,Canolfan y Ceridwen Centre,farm,52.0133432,-4.3868647
 4210766293,Penblewyn,Penblewin,locality,51.8167447,-4.7286823
@@ -413,10 +472,16 @@
 5000573222,Sanclêr,St. Clears,town,51.8206559,-4.4946965
 5048360960,Sarn,Sarn,village,51.5392115,-3.5839815
 5051719121,Pen-y-fai,Pen-y-fai,village,51.5253661,-3.5958372
+5117940775,Bargoed,Bargoed,town,51.6911236,-3.2290284
 5235399562,Y Drenewydd,Bute Town,hamlet,51.7741269,-3.2997199
 5235399569,Tref Eliot,Elliot's Town,neighbourhood,51.7180534,-3.2359396
 5235570849,Treffilip,Phillip's Town,neighbourhood,51.7243143,-3.2391153
 5329890962,Porthladd Caergybi,Holyhead Port,locality,53.3118883,-4.6281307
+5446038223,Y Bryn,The Bryn,neighbourhood,51.6499854,-3.2029524
+5451858889,Llanismel,Llanismel,hamlet,51.7475138,-4.3724698
+5452179566,Sarnau,Sarnau,village,52.1303444,-4.4672402
+5452179567,Penmorfa,Penmorfa,hamlet,52.1398623,-4.4774764
+5452179568,Brynhoffnant,Brynhoffnant,village,52.1350610,-4.4391444
 2986987,Ynys Badrig,Middle Mouse,island,,
 2987001,Ynysoedd y Moelrhoniaid,Ynysoedd y Moelrhoniaid,island,,
 2988683,Ynys Arw,North Stack,islet,,
@@ -435,6 +500,7 @@
 202499210,Sain Dynwyd,St. Donat's,village,,
 218697343,Hendy-gwyn ar Daf,Whitland,town,,
 226417893,Pont yr Eilun,Pont yr Eilun,islet,,
+255827399,Porthcawl,Porthcawl,town,,
 295543313,Parc Dewi Sant,Saint David's Park (Council Offices),neighbourhood,,
 408871019,Cefnllech,Cefnllech,farm,,
 514746740,Maes y Frenhines,Maes y Frenhines / Queen's Square,square,,
@@ -443,6 +509,7 @@
 335184,Casnewydd,Newport,city,,
 1446958,Penrhyn-Gwyr,Worms Head,island,,
 1759088,Cilâ Uchaf,Upper Killay,village,,
+1763020,Waunarlwydd,Waunarlwydd,town,,
 1783531,Porth Einon,Port Eynon,village,,
 2832411,Ynys Bŷr,Caldey Island,island,,
 2856487,Ynys Sgomer,Skomer,island,,
