@@ -68,7 +68,7 @@
 53.0984611,-3.1178555,,farm,Cae Glas Farm
 51.6956903,-2.8320104,,village,Llangwm
 53.3365910,-1.2398136,,village,Kiveton Park Station
-51.7535491,-5.1850319,,hamlet,Saint Brides
+51.7535410,-5.1850358,,hamlet,Saint Brides
 51.8027399,-5.0328011,,village,Sutton
 52.0292766,-5.0719056,,locality,Strumble Head
 53.0901194,-3.0698930,,village,Ffrith
@@ -3116,8 +3116,6 @@
 51.9790714,-4.5676809,,farm,
 51.9773003,-4.5749765,,farm,
 51.9731499,-4.5722514,,farm,
-51.9705590,-4.5646554,,farm,
-51.9712993,-4.5579392,,farm,
 51.9673334,-4.5512230,,farm,
 51.9677300,-4.5479829,,farm,
 51.9702549,-4.5432622,,farm,
@@ -8893,6 +8891,7 @@
 51.5884893,-2.8538394,,hamlet,Wilcrick
 52.7704625,-4.0829900,,hamlet,Gwenfain
 51.9861820,-4.5560436,,hamlet,Star
+51.9637033,-4.5552775,,hamlet,Rhos y Llyn
 ,,,island,Ynys Berchen
 ,,,island,Ynys Moelfre
 ,,,island,Ynys Gaint
