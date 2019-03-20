@@ -1,0 +1,23 @@
+<osm-script output="csv" output-config="(::lat,::lon,&quot;name:cy&quot;,&quot;place&quot;,&quot;name&quot;;true;&quot;,&quot;)">
+  <query into="a" type="area">
+    <has-kv k="name" modv="" v="Wales"/>
+  </query>
+  <union into="_">
+    <query into="_" type="node">
+      <area-query from="a" into="_" ref=""/>
+      <has-kv k="place" modv="" v=""/>
+      <has-kv k="name:cy" modv="" v=""/>
+    </query>
+    <query into="_" type="way">
+      <area-query from="a" into="_" ref=""/>
+      <has-kv k="place" modv="" v=""/>
+      <has-kv k="name:cy" modv="" v=""/>
+    </query>
+    <query into="_" type="relation">
+      <area-query from="a" into="_" ref=""/>
+      <has-kv k="place" modv="" v=""/>
+      <has-kv k="name:cy" modv="" v=""/>
+    </query>
+  </union>
+  <print e="" from="_" geometry="skeleton" limit="" mode="body" n="" order="id" s="" w=""/>
+</osm-script>
